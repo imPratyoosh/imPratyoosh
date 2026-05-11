@@ -27,33 +27,33 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="divider">
 
-<!-- GITHUB STATS -->
+<!-- GITHUB STATS & SNAKE -->
 <h2><b>✦ GitHub Stats ✦</b></h2>
 
 <a href="https://github.com/imPratyoosh">
-  <img src="https://github-readme-stats.vercel.app/api?username=imPratyoosh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00F0FF" alt="GitHub Stats" />
-</a>
-<br><br>
-<a href="https://github.com/imPratyoosh">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imPratyoosh&theme=tokyonight&hide_border=true&stroke=0000&ring=00F0FF&fire=00F0FF" alt="GitHub Streak" />
-</a>
-<br><br>
-<a href="https://github.com/imPratyoosh">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imPratyoosh&theme=tokyonight&hide_border=true&layout=compact&title_color=00F0FF" alt="Top Languages" />
-</a>
-<br><br>
-<a href="https://github.com/imPratyoosh">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imPratyoosh&bg_color=1A1B26&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imPratyoosh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00F0FF" alt="" />
 </a>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="divider">
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="50%" alt="divider">
+<br>
 
-<!-- SNAKE ANIMATION -->
-<h2><b>✦ Snake Contribution Animation ✦</b></h2>
+<a href="https://github.com/imPratyoosh">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imPratyoosh&theme=tokyonight&hide_border=true&stroke=0000&ring=00F0FF&fire=00F0FF" alt="" />
+</a>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="50%" alt="divider">
+<br>
+
+<a href="https://github.com/imPratyoosh">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imPratyoosh&theme=tokyonight&hide_border=true&layout=compact&title_color=00F0FF" alt="" />
+</a>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imPratyoosh/imPratyoosh/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imPratyoosh/imPratyoosh/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/imPratyoosh/imPratyoosh/output/github-contribution-grid-snake.svg">
+  <img width="100%" alt="" src="https://raw.githubusercontent.com/imPratyoosh/imPratyoosh/output/github-contribution-grid-snake.svg">
 </picture>
 
 </div>
