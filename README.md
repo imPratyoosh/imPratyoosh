@@ -42,7 +42,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&layout=compact&title_color=00F0FF" alt="Top Languages" />
 </a>
 <br><br>
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/imPratyoosh">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=1A1B26&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </a>
 
