@@ -8,13 +8,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="divider">
 
 <!-- ABOUT ME -->
-<h3><code>[ ./profile.sh ]</code></h3>
-<h2><b>Pratyoosh Sharma</b></h2>
+<h2><b>About Me</b></h2>
+<p>Pratyoosh Sharma</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="divider">
 
 <!-- CONNECT SECTION -->
-<h3><code>[ ./network_protocols ]</code></h3>
+<h2><b>Connect Section</b></h2>
 <a href="https://t.me/impratyoosh69">
   <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" alt="Telegram">
 </a>
@@ -22,25 +22,22 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="divider">
 
 <!-- DEVICE SECTION -->
-<h3><code>[ ./hardware_specs ]</code></h3>
-<img src="https://img.shields.io/badge/Primary_Device-Poco_M4_Pro_5G-000000?style=for-the-badge&logo=android&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" alt="Device">
+<h2><b>Device Section</b></h2>
+<img src="https://img.shields.io/badge/Device-Poco_M4_Pro_5G-000000?style=for-the-badge&logo=android&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" alt="Device">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="divider">
 
 <!-- APPS I USE -->
-<h3><code>[ ./software_stack.json ]</code></h3>
+<h2><b>Apps I Use</b></h2>
 <details>
-  <summary><b><code>&gt; Initialize Application Matrix (Click to Expand)</code></b></summary>
+  <summary><b><code>&gt; Expand App Stack</code></b></summary>
   <br>
 
   ```json
   {
-    "environment": "workspace_primary",
-    "status": "awaiting_user_config",
-    "telemetry": true,
-    "installed_apps": [
-      // Null pointer exception: array empty
-      // Awaiting future commits...
+    "status": "pending_update",
+    "apps": [
+      
     ]
   }
   
@@ -55,13 +52,13 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="divider">
 
 <!-- ABOUT ME -->
-<h3><code>[ ./profile.sh ]</code></h3>
-<h2><b>Pratyoosh Sharma</b></h2>
+<h2><b>About Me</b></h2>
+<p>Pratyoosh Sharma</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="divider">
 
 <!-- CONNECT SECTION -->
-<h3><code>[ ./network_protocols ]</code></h3>
+<h2><b>Connect Section</b></h2>
 <a href="https://t.me/impratyoosh69">
   <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" alt="Telegram">
 </a>
@@ -69,24 +66,21 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="divider">
 
 <!-- DEVICE SECTION -->
-<h3><code>[ ./hardware_specs ]</code></h3>
-<img src="https://img.shields.io/badge/Primary_Device-Poco_M4_Pro_5G-000000?style=for-the-badge&logo=android&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" alt="Device">
+<h2><b>Device Section</b></h2>
+<img src="https://img.shields.io/badge/Device-Poco_M4_Pro_5G-000000?style=for-the-badge&logo=android&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" alt="Device">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="divider">
 
 <!-- APPS I USE -->
-<h3><code>[ ./software_stack.json ]</code></h3>
+<h2><b>Apps I Use</b></h2>
 <details>
-  <summary><b><code>&gt; Initialize Application Matrix (Click to Expand)</code></b></summary>
+  <summary><b><code>&gt; Expand App Stack</code></b></summary>
   <br>
 
   ```json
   {
-    "environment": "workspace_primary",
-    "status": "awaiting_user_config",
-    "telemetry": true,
-    "installed_apps": [
-      // Null pointer exception: array empty
-      // Awaiting future commits...
+    "status": "pending_update",
+    "apps": [
+      
     ]
   }
