@@ -32,23 +32,13 @@
 
 <img src="https://komarev.com/ghpvc/?username=imPratyoosh&label=PROFILE+VIEWS&color=00F0FF&style=for-the-badge" alt="Profile Views" />
 
-<br><br>
-
 <a href="https://github.com/imPratyoosh">
   <img src="https://github-readme-stats.vercel.app/api?username=imPratyoosh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00F0FF" alt="" />
 </a>
 
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="50%" alt="divider">
-<br>
-
 <a href="https://github.com/imPratyoosh">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imPratyoosh&theme=tokyonight&hide_border=true&stroke=0000&ring=00F0FF&fire=00F0FF" alt="" />
 </a>
-
-<br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="50%" alt="divider">
-<br>
 
 <a href="https://github.com/imPratyoosh">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imPratyoosh&theme=tokyonight&hide_border=true&layout=compact&title_color=00F0FF" alt="" />
