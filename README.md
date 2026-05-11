@@ -31,25 +31,23 @@
 <h2><b>✦ GitHub Stats ✦</b></h2>
 
 <a href="https://github.com/imPratyoosh">
-  <img src="https://github-readme-stats.vercel.app/api?username=imPratyoosh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00F0FF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imPratyoosh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00F0FF" alt="" />
 </a>
 <br><br>
 <a href="https://github.com/imPratyoosh">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imPratyoosh&theme=tokyonight&hide_border=true&stroke=0000&ring=00F0FF&fire=00F0FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imPratyoosh&theme=tokyonight&hide_border=true&stroke=0000&ring=00F0FF&fire=00F0FF" alt="" />
 </a>
 <br><br>
 <a href="https://github.com/imPratyoosh">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imPratyoosh&theme=tokyonight&hide_border=true&layout=compact&title_color=00F0FF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imPratyoosh&theme=tokyonight&hide_border=true&layout=compact&title_color=00F0FF" alt="" />
 </a>
 <br><br>
 <a href="https://github.com/imPratyoosh">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imPratyoosh&bg_color=1A1B26&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imPratyoosh&bg_color=1A1B26&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=true" alt="" />
 </a>
 <br><br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imPratyoosh/imPratyoosh/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imPratyoosh/imPratyoosh/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/imPratyoosh/imPratyoosh/output/github-contribution-grid-snake.svg">
+  <img alt="" src="https://raw.githubusercontent.com/imPratyoosh/imPratyoosh/output/github-contribution-grid-snake.svg">
 </picture>
-
-</div>
