@@ -30,6 +30,10 @@
 <!-- GITHUB STATS & SNAKE -->
 <h2><b>✦ GitHub Stats ✦</b></h2>
 
+<img src="https://komarev.com/ghpvc/?username=imPratyoosh&label=PROFILE+VIEWS&color=00F0FF&style=for-the-badge" alt="Profile Views" />
+
+<br><br>
+
 <a href="https://github.com/imPratyoosh">
   <img src="https://github-readme-stats.vercel.app/api?username=imPratyoosh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00F0FF" alt="" />
 </a>
