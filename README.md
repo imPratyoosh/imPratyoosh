@@ -30,7 +30,7 @@
 <!-- GITHUB STATS -->
 <h2><b>✦ GitHub Stats ✦</b></h2>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/imPratyoosh">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00F0FF" alt="GitHub Stats" />
 </a>
 <br><br>
