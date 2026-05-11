@@ -10,25 +10,40 @@
 <!-- ABOUT ME -->
 <h2><b>✦ About Me ✦</b></h2>
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=35&pause=1000&color=00F0FF&center=true&vCenter=true&width=500&lines=PRATYOOSH+SHARMA" alt="Pratyoosh Sharma" />
+<br><br>
+<i><code>&gt; 📱 Android Enthusiast • 🎧 Music App Connoisseur • 🌟 Open-Source Explorer </code></i>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="divider">
 
-<!-- CONNECT -->
-<h2><b>✦ Connect ✦</b></h2>
+<!-- APPS I USE -->
+<h2><b>✦ Daily Drivers ✦</b></h2>
+<img src="https://img.shields.io/badge/YouTube_Music-000000?style=for-the-badge&logo=youtubemusic&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" alt="YT Music">
+<img src="https://img.shields.io/badge/Nagram_X-000000?style=for-the-badge&logo=telegram&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" alt="Nagram X">
+<img src="https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=reddit&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" alt="Reddit">
+<img src="https://img.shields.io/badge/MpvRex-000000?style=for-the-badge&logo=mpv&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" alt="MpvRex">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="divider">
+
+<!-- THE VAULT (STARRED PROJECTS) -->
+<h2><b>✦ The Vault ✦</b></h2>
+<p><i>"I spend a lot of time finding the best open-source stuff. Check out my curated favorites."</i></p>
+<a href="https://github.com/imPratyoosh?tab=stars">
+  <img src="https://img.shields.io/badge/Explore_My_Starred_Repos-000000?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" alt="Stars">
+</a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="divider">
+
+<!-- SYSTEM INFO & COMM -->
+<h2><b>✦ System Info & Comm ✦</b></h2>
+<img src="https://img.shields.io/badge/Primary_Device-Poco_M4_Pro_5G-000000?style=for-the-badge&logo=android&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" alt="Device">
 <a href="https://t.me/impratyoosh69">
   <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" alt="Telegram">
 </a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="divider">
 
-<!-- DEVICE -->
-<h2><b>✦ Device ✦</b></h2>
-<img src="https://img.shields.io/badge/Device-Poco_M4_Pro_5G-000000?style=for-the-badge&logo=android&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" alt="Device">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="divider">
-
-<!-- GITHUB STATS & SNAKE -->
-<h2><b>✦ GitHub Stats ✦</b></h2>
+<!-- ACTIVITY LOG -->
+<h2><b>✦ Activity Log ✦</b></h2>
 
 <img src="https://komarev.com/ghpvc/?username=imPratyoosh&label=PROFILE+VIEWS&color=00F0FF&style=for-the-badge" alt="Profile Views" />
 
@@ -38,10 +53,6 @@
 
 <a href="https://github.com/imPratyoosh">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imPratyoosh&theme=tokyonight&hide_border=true&stroke=0000&ring=00F0FF&fire=00F0FF" alt="" />
-</a>
-
-<a href="https://github.com/imPratyoosh">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imPratyoosh&theme=tokyonight&hide_border=true&layout=compact&title_color=00F0FF" alt="" />
 </a>
 
 <picture>
