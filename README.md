@@ -1,2 +1,1 @@
-# impratyoosh69
-profile stuff
+Readme in progress...
