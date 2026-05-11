@@ -27,7 +27,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="divider">
 
-<!-- GITHUB STATS -->
+<!-- GITHUB STATS & SNAKE -->
 <h2><b>✦ GitHub Stats ✦</b></h2>
 
 <a href="https://github.com/imPratyoosh">
@@ -45,11 +45,7 @@
 <a href="https://github.com/imPratyoosh">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=imPratyoosh&bg_color=1A1B26&color=00F0FF&line=00F0FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </a>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="divider">
-
-<!-- SNAKE ANIMATION -->
-<h2><b>✦ Snake Contribution Animation ✦</b></h2>
+<br><br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imPratyoosh/imPratyoosh/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imPratyoosh/imPratyoosh/output/github-contribution-grid-snake.svg">
