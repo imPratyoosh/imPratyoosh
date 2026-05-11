@@ -34,7 +34,6 @@
     <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" alt="Discord">
     <img src="https://img.shields.io/badge/Edge-000000?style=for-the-badge&logo=microsoftedge&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" alt="Edge">
     <img src="https://img.shields.io/badge/FediCam-000000?style=for-the-badge&logo=android&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" alt="FediCam">
-    <img src="https://img.shields.io/badge/Flipkart-000000?style=for-the-badge&logo=android&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" alt="Flipkart">
     <img src="https://img.shields.io/badge/Free_Fire-000000?style=for-the-badge&logo=android&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" alt="Free Fire">
     <img src="https://img.shields.io/badge/Gallery-000000?style=for-the-badge&logo=android&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" alt="Gallery">
     <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" alt="Gemini">
@@ -62,7 +61,6 @@
     <img src="https://img.shields.io/badge/MX_Player-000000?style=for-the-badge&logo=android&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" alt="MX Player">
     <img src="https://img.shields.io/badge/MyInsta-000000?style=for-the-badge&logo=instagram&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" alt="MyInsta">
     <img src="https://img.shields.io/badge/MyJio-000000?style=for-the-badge&logo=jio&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" alt="MyJio">
-    <img src="https://img.shields.io/badge/Myntra-000000?style=for-the-badge&logo=myntra&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" alt="Myntra">
     <img src="https://img.shields.io/badge/Nagram_X-000000?style=for-the-badge&logo=telegram&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" alt="Nagram X">
     <img src="https://img.shields.io/badge/Obsidian-000000?style=for-the-badge&logo=obsidian&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" alt="Obsidian">
     <img src="https://img.shields.io/badge/Paytm-000000?style=for-the-badge&logo=paytm&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" alt="Paytm">
