@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO -->
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/imPratyoosh">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=%3E_Hello,+World.;%3E_I'm+Pratyoosh+Sharma.;%3E_System+loading...;%3E_Access+Granted." alt="Typing SVG" />
 </a>
 
