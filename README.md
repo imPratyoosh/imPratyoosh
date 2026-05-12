@@ -1,5 +1,3 @@
-https://github.com/user-attachments/assets/01076055-778d-47ee-a778-ea4725414586
-
 <div align="center">
 
 <a href="https://github.com/imPratyoosh">
