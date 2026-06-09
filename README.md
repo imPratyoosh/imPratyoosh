@@ -13,15 +13,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="divider">
 
-<!-- APPS I USE -->
-<h2><b>✦ Daily Drivers ✦</b></h2>
-<img src="https://img.shields.io/badge/YouTube_Music-000000?style=for-the-badge&logo=youtubemusic&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" alt="YT Music">
-<img src="https://img.shields.io/badge/Nagram_X-000000?style=for-the-badge&logo=telegram&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" alt="Nagram X">
-<img src="https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=reddit&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" alt="Reddit">
-<img src="https://img.shields.io/badge/MpvRex-000000?style=for-the-badge&logo=mpv&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" alt="MpvRex">
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="80%" alt="divider">
-
 <!-- THE VAULT (STARRED PROJECTS) -->
 <h2><b>✦ The Vault ✦</b></h2>
 <p><i>"I spend a lot of time finding the best open-source stuff. Check out my curated favorites."</i></p>
