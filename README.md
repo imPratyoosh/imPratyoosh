@@ -17,6 +17,7 @@
 
 <a href="https://github.com/imPratyoosh?tab=stars">
   <img src="https://img.shields.io/badge/The_Vault_(Starred)-000000?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" height="40" alt="Stars">
+
 </a>
 <a href="https://t.me/impratyoosh69">
   <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" height="40" alt="Telegram">
