@@ -1,3 +1,6 @@
+<!-- TOP WAVY LIVE DESIGN -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=120&section=header" width="100%" alt="Top Wave" />
+
 # **>_ Pratyoosh Sharma**
 
 <a href="https://github.com/imPratyoosh">
@@ -20,29 +23,5 @@
 </a>
 <img src="https://img.shields.io/badge/Primary_Device-Poco_M4_Pro_5G-000000?style=for-the-badge&logo=android&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" height="40" alt="Device">
 
----
-
-### ✦ Activity Log & System Stats
-
-<a href="https://github.com/imPratyoosh">
-  <img src="https://komarev.com/ghpvc/?username=imPratyoosh&label=PROFILE+VIEWS&color=00F0FF&style=flat-square" alt="Profile Views" />
-</a>
-<br><br>
-
-<!-- SIDE-BY-SIDE STATS -->
-<a href="https://github.com/imPratyoosh">
-  <img src="https://github-readme-stats.vercel.app/api?username=imPratyoosh&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=00F0FF" height="195" alt="GitHub Stats" />
-</a>
-<a href="https://github.com/imPratyoosh">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imPratyoosh&theme=tokyonight&hide_border=true&stroke=0000&ring=00F0FF&fire=00F0FF" height="195" alt="GitHub Streak" />
-</a>
-
-<br><br>
-
-<!-- CONTRIBUTION SNAKE -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imPratyoosh/imPratyoosh/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imPratyoosh/imPratyoosh/output/github-contribution-grid-snake.svg">
-  <img width="100%" alt="Contribution Snake" src="https://raw.githubusercontent.com/imPratyoosh/imPratyoosh/output/github-contribution-grid-snake.svg"
-  >
-</picture>
+<!-- BOTTOM WAVY LIVE DESIGN -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=120&section=footer" width="100%" alt="Bottom Wave" />
