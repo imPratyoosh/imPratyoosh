@@ -8,7 +8,7 @@
 </a>
 
 <!-- ANIMATED RAINBOW DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" alt="Rainbow Divider" />
+<img src="https://github.com/andreasbm/readme/blob/master/assets/lines/rainbow.gif?raw=true" width="100%" alt="Rainbow Divider" />
 
 ### ✦ The Vault & Comm
 
