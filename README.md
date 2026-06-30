@@ -17,12 +17,19 @@
 
 <a href="https://github.com/imPratyoosh?tab=stars">
   <img src="https://img.shields.io/badge/The_Vault_(Starred)-000000?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" height="40" alt="Stars">
-
 </a>
+
+<br><br>
+
 <a href="https://t.me/impratyoosh69">
   <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" height="40" alt="Telegram">
 </a>
+
+<br><br>
+
 <img src="https://img.shields.io/badge/Primary_Device-Poco_M4_Pro_5G-000000?style=for-the-badge&logo=android&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" height="40" alt="Device">
+
+<br><br>
 
 <!-- BOTTOM WAVY LIVE DESIGN -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=120&section=footer" width="100%" alt="Bottom Wave" />
