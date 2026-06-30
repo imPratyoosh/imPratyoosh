@@ -1,7 +1,7 @@
 # **>_ Pratyoosh Sharma**
 
 <a href="https://github.com/imPratyoosh">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=false&vCenter=false&width=700&lines=%3E_+Android+Enthusiast;%3E_+Music+App+Connoisseur;%3E_+Open-Source+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=false&vCenter=false&lines=%3E_+Android+Enthusiast;%3E_+Music+App+Connoisseur;%3E_+Open-Source+Explorer" alt="Typing SVG" />
 </a>
 
 ---
@@ -12,23 +12,13 @@
 
 <br>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/imPratyoosh?tab=stars">
-        <img src="https://img.shields.io/badge/The_Vault_(Starred)-000000?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" height="40" alt="Stars">
-      </a>
-    </td>
-    <td>
-      <a href="https://t.me/impratyoosh69">
-        <img src="https://img.shields.io/badge/Telegram_Ping-000000?style=for-the-badge&logo=telegram&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" height="40" alt="Telegram">
-      </a>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Primary_Device-Poco_M4_Pro_5G-000000?style=for-the-badge&logo=android&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" height="40" alt="Device">
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/imPratyoosh?tab=stars">
+  <img src="https://img.shields.io/badge/The_Vault_(Starred)-000000?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" height="40" alt="Stars">
+</a>
+<a href="https://t.me/impratyoosh69">
+  <img src="https://img.shields.io/badge/Telegram_Ping-000000?style=for-the-badge&logo=telegram&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" height="40" alt="Telegram">
+</a>
+<img src="https://img.shields.io/badge/Primary_Device-Poco_M4_Pro_5G-000000?style=for-the-badge&logo=android&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" height="40" alt="Device">
 
 ---
 
@@ -53,5 +43,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imPratyoosh/imPratyoosh/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imPratyoosh/imPratyoosh/output/github-contribution-grid-snake.svg">
-  <img width="100%" alt="Contribution Snake" src="https://raw.githubusercontent.com/imPratyoosh/imPratyoosh/output/github-contribution-grid-snake.svg">
+  <img width="100%" alt="Contribution Snake" src="https://raw.githubusercontent.com/imPratyoosh/imPratyoosh/output/github-contribution-grid-snake.svg"
+  >
 </picture>
