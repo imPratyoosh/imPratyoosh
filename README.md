@@ -1,7 +1,7 @@
 <!-- TOP WAVY LIVE DESIGN -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=120&section=header" width="100%" alt="Top Wave" />
 
-# **Pratyoosh Sharma**
+## **Pratyoosh Sharma**
 
 <a href="https://github.com/imPratyoosh">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=false&vCenter=false&lines=%3E_+Android+Enthusiast;%3E_+Music+App+Connoisseur;%3E_+Open-Source+Explorer" alt="Typing SVG" />
