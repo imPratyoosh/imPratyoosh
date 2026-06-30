@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/The_Vault_(Starred)-000000?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" height="40" alt="Stars">
 </a>
 <a href="https://t.me/impratyoosh69">
-  <img src="https://img.shields.io/badge/Telegram_Ping-000000?style=for-the-badge&logo=telegram&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" height="40" alt="Telegram">
+  <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" height="40" alt="Telegram">
 </a>
 <img src="https://img.shields.io/badge/Primary_Device-Poco_M4_Pro_5G-000000?style=for-the-badge&logo=android&logoColor=00F0FF&labelColor=1A1B26&color=1A1B26" height="40" alt="Device">
 
