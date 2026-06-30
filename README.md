@@ -7,7 +7,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=false&vCenter=false&lines=%3E_+Android+Enthusiast;%3E_+Music+App+Connoisseur;%3E_+Open-Source+Explorer" alt="Typing SVG" />
 </a>
 
----
+<!-- ANIMATED RAINBOW DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" alt="Rainbow Divider" />
 
 ### ✦ The Vault & Comm
 
